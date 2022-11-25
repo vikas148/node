@@ -1,0 +1,16 @@
+{
+  "name": "npmmod",
+  "version": "1.0.0",
+  "description": "vikas ka package ",
+  "main": "./index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cuber420",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "validator": "^13.7.0"
+  }
+}
